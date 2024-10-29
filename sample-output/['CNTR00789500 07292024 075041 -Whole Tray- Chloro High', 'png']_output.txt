@@ -1,5 +1,5 @@
 input_image_path,min_area,max_area,num_rows,num_cols,start_center_x,start_center_y,end_center_x,end_center_y,grid_width
-Arguments: ['C:/Training_Learning/My Learning/Ball Horticulture/West Chicago/Black and White/CNTR00789500 07292024 075041 -Whole Tray- Chloro High.png', '500', '20000', '24', '12', '160', '260', '1760', '3220', '100']
+Arguments: ['C:/xxx.png', '500', '20000', '24', '12', '160', '260', '1760', '3220', '100']
 Grid 1: Total Area = 2308.5, Max intensity (HSV) = 254, Max intensity (Gray) = 254, Max intensity (minMaxLoc) = 254.0
 Grid 2: Total Area = 2145.0, Max intensity (HSV) = 254, Max intensity (Gray) = 254, Max intensity (minMaxLoc) = 254.0
 Grid 3: Total Area = 1783.0, Max intensity (HSV) = 254, Max intensity (Gray) = 254, Max intensity (minMaxLoc) = 254.0
